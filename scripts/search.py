@@ -3,21 +3,6 @@ import time
 import random
 from typing import List
 
-
-def book_binary_search(data, target, low, high):
-    if low > high:
-        return False
-    
-    else:
-        mid = (low + high) // 2
-        if target == data[mid]:
-            return True
-        elif target < data[mid]:
-            return book_binary_search(data, target, low, mid - 1)
-        else:
-            return book_binary_search(data, target, mid + 1, high)
-
-
 def binary_search(seq: List, val, low: int, high: int, num_iter: int):
     # Classic search algorithm that bisects 'seq' each time
     # If there are 'n' elements in 'seq', we are guaranteed to find the target
@@ -98,11 +83,6 @@ def test_binary_search(n_test = 10):
 
 def main():
     test_binary_search(n_test = 100)
-    seq = list(range(-3894, 6346))
-    target = -3894
-    print(book_binary_search(seq, target, 0, len(seq) - 1))
-    print(binary_search(seq, target, 0, len(seq) - 1, 0))
-    print(binary_search(seq, target, 0, len(seq) - 1, 0))
 
 
 if __name__ == "__main__":
