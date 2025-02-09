@@ -1,0 +1,806 @@
+100 tests
+
+Test 1
+------------
+Sequence: [2230, 6278]
+Search value = 6278
+Target value '6278' found at index '4048' in 12 iterations in 4049-length sequence.
+Time elapsed: 5.48e-06 [s]
+Mean time per iter: 4.57e-07 [s / iter]
+
+Test 2
+------------
+Sequence: [48, 130]
+Search value = 56
+Target value '56' found at index '8' in 7 iterations in 83-length sequence.
+Time elapsed: 2.86e-06 [s]
+Mean time per iter: 4.09e-07 [s / iter]
+
+Test 3
+------------
+Sequence: [-4402052, -3586056]
+Search value = -3858484
+Target value '-3858484' found at index '543568' in 19 iterations in 815997-length sequence.
+Time elapsed: 1.72e-05 [s]
+Mean time per iter: 9.03e-07 [s / iter]
+
+Test 4
+------------
+Sequence: [-2051900, 11784814]
+Search value = -1636449
+Target value '-1636449' found at index '415451' in 24 iterations in 13836715-length sequence.
+Time elapsed: 2.53e-05 [s]
+Mean time per iter: 1.05e-06 [s / iter]
+
+Test 5
+------------
+Sequence: [131214, 288389]
+Search value = 238166
+Target value '238166' found at index '106952' in 14 iterations in 157176-length sequence.
+Time elapsed: 3.79e-05 [s]
+Mean time per iter: 2.71e-06 [s / iter]
+
+Test 6
+------------
+Sequence: [-47, 79]
+Search value = -47
+Target value '-47' found at index '0' in 7 iterations in 127-length sequence.
+Time elapsed: 9.06e-06 [s]
+Mean time per iter: 1.29e-06 [s / iter]
+
+Test 7
+------------
+Sequence: [-80766, -22004]
+Search value = -42793
+Target value '-42793' found at index '37973' in 12 iterations in 58763-length sequence.
+Time elapsed: 3.81e-06 [s]
+Mean time per iter: 3.18e-07 [s / iter]
+
+Test 8
+------------
+Sequence: [-604558, 393845]
+Search value = -40256
+Target value '-40256' found at index '564302' in 19 iterations in 998404-length sequence.
+Time elapsed: 2.88e-05 [s]
+Mean time per iter: 1.52e-06 [s / iter]
+
+Test 9
+------------
+Sequence: [938, 2694]
+Search value = 1119
+Target value '1119' found at index '181' in 10 iterations in 1757-length sequence.
+Time elapsed: 2.34e-05 [s]
+Mean time per iter: 2.34e-06 [s / iter]
+
+Test 10
+------------
+Sequence: [-11995, 139670]
+Search value = 111195
+Target value '111195' found at index '123190' in 12 iterations in 151666-length sequence.
+Time elapsed: 6.68e-06 [s]
+Mean time per iter: 5.56e-07 [s / iter]
+
+Test 11
+------------
+Sequence: [748, 1633]
+Search value = 1633
+Target value '1633' found at index '885' in 10 iterations in 886-length sequence.
+Time elapsed: 5.72e-06 [s]
+Mean time per iter: 5.72e-07 [s / iter]
+
+Test 12
+------------
+Sequence: [-280, 8743]
+Search value = 3054
+Target value '3054' found at index '3334' in 13 iterations in 9024-length sequence.
+Time elapsed: 3.58e-06 [s]
+Mean time per iter: 2.75e-07 [s / iter]
+
+Test 13
+------------
+Sequence: [33966, 39862]
+Search value = 38221
+Target value '38221' found at index '4255' in 12 iterations in 5897-length sequence.
+Time elapsed: 2.62e-06 [s]
+Mean time per iter: 2.19e-07 [s / iter]
+
+Test 14
+------------
+Sequence: [10, 14]
+Search value = 14
+Target value '14' found at index '4' in 3 iterations in 5-length sequence.
+Time elapsed: 6.08e-05 [s]
+Mean time per iter: 2.03e-05 [s / iter]
+
+Test 15
+------------
+Sequence: [935, 2808]
+Search value = 2498
+Target value '2498' found at index '1563' in 10 iterations in 1874-length sequence.
+Time elapsed: 2.62e-06 [s]
+Mean time per iter: 2.62e-07 [s / iter]
+
+Test 16
+------------
+Sequence: [7088265, 21474431]
+Search value = 21474431
+Target value '21474431' found at index '14386166' in 24 iterations in 14386167-length sequence.
+Time elapsed: 3.12e-05 [s]
+Mean time per iter: 1.30e-06 [s / iter]
+
+Test 17
+------------
+Sequence: [-78, 77]
+Search value = 49
+Target value '49' found at index '127' in 7 iterations in 156-length sequence.
+Time elapsed: 9.78e-06 [s]
+Mean time per iter: 1.40e-06 [s / iter]
+
+Test 18
+------------
+Sequence: [-660, -610]
+Search value = -665
+Error: -665 not found in sequence after 1 iterations!
+Time elapsed: 2.86e-06 [s]
+Mean time per iter: 2.86e-06 [s / iter]
+
+Test 19
+------------
+Sequence: [-183415, 984530]
+Search value = 363418
+Target value '363418' found at index '546833' in 20 iterations in 1167946-length sequence.
+Time elapsed: 4.32e-05 [s]
+Mean time per iter: 2.16e-06 [s / iter]
+
+Test 20
+------------
+Sequence: [568, 832]
+Search value = 578
+Target value '578' found at index '10' in 8 iterations in 265-length sequence.
+Time elapsed: 1.05e-05 [s]
+Mean time per iter: 1.31e-06 [s / iter]
+
+Test 21
+------------
+Sequence: [668039, 1399267]
+Search value = 1399267
+Target value '1399267' found at index '731228' in 20 iterations in 731229-length sequence.
+Time elapsed: 1.19e-05 [s]
+Mean time per iter: 5.96e-07 [s / iter]
+
+Test 22
+------------
+Sequence: [-21657, 122635]
+Search value = 65395
+Target value '65395' found at index '87052' in 17 iterations in 144293-length sequence.
+Time elapsed: 1.62e-05 [s]
+Mean time per iter: 9.54e-07 [s / iter]
+
+Test 23
+------------
+Sequence: [-56258, 137691]
+Search value = -21378
+Target value '-21378' found at index '34880' in 16 iterations in 193950-length sequence.
+Time elapsed: 6.91e-06 [s]
+Mean time per iter: 4.32e-07 [s / iter]
+
+Test 24
+------------
+Sequence: [6724, 24059]
+Search value = 18010
+Target value '18010' found at index '11286' in 14 iterations in 17336-length sequence.
+Time elapsed: 4.77e-06 [s]
+Mean time per iter: 3.41e-07 [s / iter]
+
+Test 25
+------------
+Sequence: [-26, 112]
+Search value = 80
+Target value '80' found at index '106' in 6 iterations in 139-length sequence.
+Time elapsed: 2.38e-06 [s]
+Mean time per iter: 3.97e-07 [s / iter]
+
+Test 26
+------------
+Sequence: [22, 172]
+Search value = 22
+Target value '22' found at index '0' in 7 iterations in 151-length sequence.
+Time elapsed: 1.67e-06 [s]
+Mean time per iter: 2.38e-07 [s / iter]
+
+Test 27
+------------
+Sequence: [45538, 115650]
+Search value = 76283
+Target value '76283' found at index '30745' in 14 iterations in 70113-length sequence.
+Time elapsed: 6.20e-06 [s]
+Mean time per iter: 4.43e-07 [s / iter]
+
+Test 28
+------------
+Sequence: [-66, -49]
+Search value = -61
+Target value '-61' found at index '5' in 3 iterations in 18-length sequence.
+Time elapsed: 2.15e-06 [s]
+Mean time per iter: 7.15e-07 [s / iter]
+
+Test 29
+------------
+Sequence: [-484, -448]
+Search value = -476
+Target value '-476' found at index '8' in 2 iterations in 37-length sequence.
+Time elapsed: 9.54e-07 [s]
+Mean time per iter: 4.77e-07 [s / iter]
+
+Test 30
+------------
+Sequence: [-692495, 12817685]
+Search value = 2877566
+Target value '2877566' found at index '3570061' in 24 iterations in 13510181-length sequence.
+Time elapsed: 2.67e-05 [s]
+Mean time per iter: 1.11e-06 [s / iter]
+
+Test 31
+------------
+Sequence: [-2, 18]
+Search value = -2
+Target value '-2' found at index '0' in 4 iterations in 21-length sequence.
+Time elapsed: 8.11e-06 [s]
+Mean time per iter: 2.03e-06 [s / iter]
+
+Test 32
+------------
+Sequence: [254, 885]
+Search value = 669
+Target value '669' found at index '415' in 8 iterations in 632-length sequence.
+Time elapsed: 2.86e-06 [s]
+Mean time per iter: 3.58e-07 [s / iter]
+
+Test 33
+------------
+Sequence: [-1587156, 15529386]
+Search value = -522403
+Target value '-522403' found at index '1064753' in 25 iterations in 17116543-length sequence.
+Time elapsed: 2.48e-05 [s]
+Mean time per iter: 9.92e-07 [s / iter]
+
+Test 34
+------------
+Sequence: [-5, 7]
+Search value = 3
+Target value '3' found at index '8' in 4 iterations in 13-length sequence.
+Time elapsed: 7.39e-06 [s]
+Mean time per iter: 1.85e-06 [s / iter]
+
+Test 35
+------------
+Sequence: [6, 21]
+Search value = 17
+Target value '17' found at index '11' in 2 iterations in 16-length sequence.
+Time elapsed: 2.15e-06 [s]
+Mean time per iter: 1.07e-06 [s / iter]
+
+Test 36
+------------
+Sequence: [-28, 23]
+Search value = 23
+Target value '23' found at index '51' in 6 iterations in 52-length sequence.
+Time elapsed: 1.67e-06 [s]
+Mean time per iter: 2.78e-07 [s / iter]
+
+Test 37
+------------
+Sequence: [115738, 1145687]
+Search value = 1037534
+Target value '1037534' found at index '921796' in 18 iterations in 1029950-length sequence.
+Time elapsed: 1.41e-05 [s]
+Mean time per iter: 7.81e-07 [s / iter]
+
+Test 38
+------------
+Sequence: [-7226375, -3544363]
+Search value = -6522562
+Target value '-6522562' found at index '703813' in 22 iterations in 3682013-length sequence.
+Time elapsed: 2.15e-05 [s]
+Mean time per iter: 9.75e-07 [s / iter]
+
+Test 39
+------------
+Sequence: [-8898117, -2815676]
+Search value = -6062827
+Target value '-6062827' found at index '2835290' in 23 iterations in 6082442-length sequence.
+Time elapsed: 2.65e-05 [s]
+Mean time per iter: 1.15e-06 [s / iter]
+
+Test 40
+------------
+Sequence: [-126476, 824773]
+Search value = 178906
+Target value '178906' found at index '305382' in 20 iterations in 951250-length sequence.
+Time elapsed: 1.88e-05 [s]
+Mean time per iter: 9.42e-07 [s / iter]
+
+Test 41
+------------
+Sequence: [91, 259]
+Search value = 259
+Target value '259' found at index '168' in 8 iterations in 169-length sequence.
+Time elapsed: 9.30e-06 [s]
+Mean time per iter: 1.16e-06 [s / iter]
+
+Test 42
+------------
+Sequence: [86, 256]
+Search value = 171
+Target value '171' found at index '85' in 1 iterations in 171-length sequence.
+Time elapsed: 1.67e-06 [s]
+Mean time per iter: 1.67e-06 [s / iter]
+
+Test 43
+------------
+Sequence: [-4, 2]
+Search value = 0
+Target value '0' found at index '4' in 3 iterations in 7-length sequence.
+Time elapsed: 1.43e-06 [s]
+Mean time per iter: 4.77e-07 [s / iter]
+
+Test 44
+------------
+Sequence: [-7, 7]
+Search value = -2
+Target value '-2' found at index '5' in 3 iterations in 15-length sequence.
+Time elapsed: 1.43e-06 [s]
+Mean time per iter: 4.77e-07 [s / iter]
+
+Test 45
+------------
+Sequence: [-4, 6]
+Search value = 2
+Target value '2' found at index '6' in 3 iterations in 11-length sequence.
+Time elapsed: 1.19e-06 [s]
+Mean time per iter: 3.97e-07 [s / iter]
+
+Test 46
+------------
+Sequence: [-45072, -36086]
+Search value = -45072
+Target value '-45072' found at index '0' in 13 iterations in 8987-length sequence.
+Time elapsed: 3.58e-06 [s]
+Mean time per iter: 2.75e-07 [s / iter]
+
+Test 47
+------------
+Sequence: [-19, 75]
+Search value = 9
+Target value '9' found at index '28' in 7 iterations in 95-length sequence.
+Time elapsed: 1.67e-06 [s]
+Mean time per iter: 2.38e-07 [s / iter]
+
+Test 48
+------------
+Sequence: [818, 2148]
+Search value = 1889
+Target value '1889' found at index '1071' in 10 iterations in 1331-length sequence.
+Time elapsed: 3.10e-06 [s]
+Mean time per iter: 3.10e-07 [s / iter]
+
+Test 49
+------------
+Sequence: [0, 20]
+Search value = 12
+Target value '12' found at index '12' in 3 iterations in 21-length sequence.
+Time elapsed: 9.54e-07 [s]
+Mean time per iter: 3.18e-07 [s / iter]
+
+Test 50
+------------
+Sequence: [817654, 1082136]
+Search value = 813044
+Error: 813044 not found in sequence after 1 iterations!
+Time elapsed: 3.10e-06 [s]
+Mean time per iter: 3.10e-06 [s / iter]
+
+Test 51
+------------
+Sequence: [-798475, -636791]
+Search value = -636791
+Target value '-636791' found at index '161684' in 18 iterations in 161685-length sequence.
+Time elapsed: 9.30e-06 [s]
+Mean time per iter: 5.17e-07 [s / iter]
+
+Test 52
+------------
+Sequence: [8549607, 16915742]
+Search value = 11579684
+Target value '11579684' found at index '3030077' in 23 iterations in 8366136-length sequence.
+Time elapsed: 2.26e-05 [s]
+Mean time per iter: 9.85e-07 [s / iter]
+
+Test 53
+------------
+Sequence: [-22681, 107040]
+Search value = 27301
+Target value '27301' found at index '49982' in 17 iterations in 129722-length sequence.
+Time elapsed: 1.60e-05 [s]
+Mean time per iter: 9.40e-07 [s / iter]
+
+Test 54
+------------
+Sequence: [-4353, 33419]
+Search value = 9487
+Target value '9487' found at index '13840' in 12 iterations in 37773-length sequence.
+Time elapsed: 5.48e-06 [s]
+Mean time per iter: 4.57e-07 [s / iter]
+
+Test 55
+------------
+Sequence: [7, 18]
+Search value = 9
+Target value '9' found at index '2' in 2 iterations in 12-length sequence.
+Time elapsed: 6.25e-05 [s]
+Mean time per iter: 3.12e-05 [s / iter]
+
+Test 56
+------------
+Sequence: [126418, 6965164]
+Search value = 6965164
+Target value '6965164' found at index '6838746' in 23 iterations in 6838747-length sequence.
+Time elapsed: 1.53e-05 [s]
+Mean time per iter: 6.63e-07 [s / iter]
+
+Test 57
+------------
+Sequence: [4319770, 20539322]
+Search value = 13025371
+Target value '13025371' found at index '8705601' in 21 iterations in 16219553-length sequence.
+Time elapsed: 2.60e-05 [s]
+Mean time per iter: 1.24e-06 [s / iter]
+
+Test 58
+------------
+Sequence: [-376, 19337]
+Search value = 2368
+Target value '2368' found at index '2744' in 14 iterations in 19714-length sequence.
+Time elapsed: 1.43e-05 [s]
+Mean time per iter: 1.02e-06 [s / iter]
+
+Test 59
+------------
+Sequence: [78024, 270894]
+Search value = 184508
+Target value '184508' found at index '106484' in 17 iterations in 192871-length sequence.
+Time elapsed: 8.34e-06 [s]
+Mean time per iter: 4.91e-07 [s / iter]
+
+Test 60
+------------
+Sequence: [-9463, -3110]
+Search value = -7781
+Target value '-7781' found at index '1682' in 11 iterations in 6354-length sequence.
+Time elapsed: 5.01e-06 [s]
+Mean time per iter: 4.55e-07 [s / iter]
+
+Test 61
+------------
+Sequence: [57334, 228161]
+Search value = 57334
+Target value '57334' found at index '0' in 17 iterations in 170828-length sequence.
+Time elapsed: 6.44e-06 [s]
+Mean time per iter: 3.79e-07 [s / iter]
+
+Test 62
+------------
+Sequence: [1570, 16188]
+Search value = 7106
+Target value '7106' found at index '5536' in 13 iterations in 14619-length sequence.
+Time elapsed: 4.29e-06 [s]
+Mean time per iter: 3.30e-07 [s / iter]
+
+Test 63
+------------
+Sequence: [6652, 17928]
+Search value = 13885
+Target value '13885' found at index '7233' in 14 iterations in 11277-length sequence.
+Time elapsed: 4.77e-06 [s]
+Mean time per iter: 3.41e-07 [s / iter]
+
+Test 64
+------------
+Sequence: [-2129452, -2050045]
+Search value = -2105044
+Target value '-2105044' found at index '24408' in 16 iterations in 79408-length sequence.
+Time elapsed: 4.05e-06 [s]
+Mean time per iter: 2.53e-07 [s / iter]
+
+Test 65
+------------
+Sequence: [-7741670, 5766406]
+Search value = -505520
+Target value '-505520' found at index '7236150' in 23 iterations in 13508077-length sequence.
+Time elapsed: 3.34e-05 [s]
+Mean time per iter: 1.45e-06 [s / iter]
+
+Test 66
+------------
+Sequence: [-990677, 404898]
+Search value = 404898
+Target value '404898' found at index '1395575' in 21 iterations in 1395576-length sequence.
+Time elapsed: 2.12e-05 [s]
+Mean time per iter: 1.01e-06 [s / iter]
+
+Test 67
+------------
+Sequence: [-3649922, 13639168]
+Search value = 11015513
+Target value '11015513' found at index '14665435' in 21 iterations in 17289091-length sequence.
+Time elapsed: 2.55e-05 [s]
+Mean time per iter: 1.21e-06 [s / iter]
+
+Test 68
+------------
+Sequence: [-618, -222]
+Search value = -466
+Target value '-466' found at index '152' in 8 iterations in 397-length sequence.
+Time elapsed: 3.55e-05 [s]
+Mean time per iter: 4.44e-06 [s / iter]
+
+Test 69
+------------
+Sequence: [-4041854, 1995250]
+Search value = 72341
+Target value '72341' found at index '4114195' in 20 iterations in 6037105-length sequence.
+Time elapsed: 2.24e-05 [s]
+Mean time per iter: 1.12e-06 [s / iter]
+
+Test 70
+------------
+Sequence: [-7906232, -2428626]
+Search value = -7280043
+Target value '-7280043' found at index '626189' in 21 iterations in 5477607-length sequence.
+Time elapsed: 2.53e-05 [s]
+Mean time per iter: 1.20e-06 [s / iter]
+
+Test 71
+------------
+Sequence: [-345180, 1583705]
+Search value = 1583705
+Target value '1583705' found at index '1928885' in 21 iterations in 1928886-length sequence.
+Time elapsed: 4.77e-05 [s]
+Mean time per iter: 2.27e-06 [s / iter]
+
+Test 72
+------------
+Sequence: [85, 206]
+Search value = 109
+Target value '109' found at index '24' in 7 iterations in 122-length sequence.
+Time elapsed: 9.30e-06 [s]
+Mean time per iter: 1.33e-06 [s / iter]
+
+Test 73
+------------
+Sequence: [421359, 2326560]
+Search value = 1070313
+Target value '1070313' found at index '648954' in 21 iterations in 1905202-length sequence.
+Time elapsed: 2.29e-05 [s]
+Mean time per iter: 1.09e-06 [s / iter]
+
+Test 74
+------------
+Sequence: [-569, -350]
+Search value = -557
+Target value '-557' found at index '12' in 4 iterations in 220-length sequence.
+Time elapsed: 1.57e-05 [s]
+Mean time per iter: 3.93e-06 [s / iter]
+
+Test 75
+------------
+Sequence: [-965, -710]
+Search value = -907
+Target value '-907' found at index '58' in 8 iterations in 256-length sequence.
+Time elapsed: 4.77e-06 [s]
+Mean time per iter: 5.96e-07 [s / iter]
+
+Test 76
+------------
+Sequence: [-38142, 80735]
+Search value = 80735
+Target value '80735' found at index '118877' in 17 iterations in 118878-length sequence.
+Time elapsed: 5.96e-06 [s]
+Mean time per iter: 3.51e-07 [s / iter]
+
+Test 77
+------------
+Sequence: [1, 13]
+Search value = 5
+Target value '5' found at index '4' in 3 iterations in 13-length sequence.
+Time elapsed: 1.07e-04 [s]
+Mean time per iter: 3.55e-05 [s / iter]
+
+Test 78
+------------
+Sequence: [56697, 112297]
+Search value = 104495
+Target value '104495' found at index '47798' in 16 iterations in 55601-length sequence.
+Time elapsed: 5.01e-06 [s]
+Mean time per iter: 3.13e-07 [s / iter]
+
+Test 79
+------------
+Sequence: [-88, 88]
+Search value = -6
+Target value '-6' found at index '82' in 5 iterations in 177-length sequence.
+Time elapsed: 2.62e-06 [s]
+Mean time per iter: 5.25e-07 [s / iter]
+
+Test 80
+------------
+Sequence: [-5143, 7417]
+Search value = 4632
+Target value '4632' found at index '9775' in 10 iterations in 12561-length sequence.
+Time elapsed: 2.86e-06 [s]
+Mean time per iter: 2.86e-07 [s / iter]
+
+Test 81
+------------
+Sequence: [-7056, 13633]
+Search value = -7056
+Target value '-7056' found at index '0' in 14 iterations in 20690-length sequence.
+Time elapsed: 3.58e-06 [s]
+Mean time per iter: 2.55e-07 [s / iter]
+
+Test 82
+------------
+Sequence: [78915, 265585]
+Search value = 97433
+Target value '97433' found at index '18518' in 17 iterations in 186671-length sequence.
+Time elapsed: 6.44e-06 [s]
+Mean time per iter: 3.79e-07 [s / iter]
+
+Test 83
+------------
+Sequence: [-23, 25]
+Search value = 14
+Target value '14' found at index '37' in 5 iterations in 49-length sequence.
+Time elapsed: 4.29e-06 [s]
+Mean time per iter: 8.58e-07 [s / iter]
+
+Test 84
+------------
+Sequence: [-872188, -35391]
+Search value = -735193
+Target value '-735193' found at index '136995' in 20 iterations in 836798-length sequence.
+Time elapsed: 2.22e-05 [s]
+Mean time per iter: 1.11e-06 [s / iter]
+
+Test 85
+------------
+Sequence: [-839327, 387542]
+Search value = -337523
+Target value '-337523' found at index '501804' in 20 iterations in 1226870-length sequence.
+Time elapsed: 1.93e-05 [s]
+Mean time per iter: 9.66e-07 [s / iter]
+
+Test 86
+------------
+Sequence: [309991, 762482]
+Search value = 762482
+Target value '762482' found at index '452491' in 19 iterations in 452492-length sequence.
+Time elapsed: 1.96e-05 [s]
+Mean time per iter: 1.03e-06 [s / iter]
+
+Test 87
+------------
+Sequence: [-330487, -264419]
+Search value = -259428
+Error: -259428 not found in sequence after 1 iterations!
+Time elapsed: 1.07e-05 [s]
+Mean time per iter: 1.07e-05 [s / iter]
+
+Test 88
+------------
+Sequence: [-9, -2]
+Search value = -2
+Target value '-2' found at index '7' in 4 iterations in 8-length sequence.
+Time elapsed: 8.11e-06 [s]
+Mean time per iter: 2.03e-06 [s / iter]
+
+Test 89
+------------
+Sequence: [-7960706, 1200705]
+Search value = -2853892
+Target value '-2853892' found at index '5106814' in 23 iterations in 9161412-length sequence.
+Time elapsed: 2.41e-05 [s]
+Mean time per iter: 1.05e-06 [s / iter]
+
+Test 90
+------------
+Sequence: [-99, 1717]
+Search value = 326
+Target value '326' found at index '425' in 10 iterations in 1817-length sequence.
+Time elapsed: 1.24e-05 [s]
+Mean time per iter: 1.24e-06 [s / iter]
+
+Test 91
+------------
+Sequence: [63847, 137280]
+Search value = 63847
+Target value '63847' found at index '0' in 16 iterations in 73434-length sequence.
+Time elapsed: 4.29e-06 [s]
+Mean time per iter: 2.68e-07 [s / iter]
+
+Test 92
+------------
+Sequence: [-8543, 6673]
+Search value = -5243
+Target value '-5243' found at index '3300' in 12 iterations in 15217-length sequence.
+Time elapsed: 3.81e-06 [s]
+Mean time per iter: 3.18e-07 [s / iter]
+
+Test 93
+------------
+Sequence: [-3, 15]
+Search value = 7
+Target value '7' found at index '10' in 4 iterations in 19-length sequence.
+Time elapsed: 4.05e-05 [s]
+Mean time per iter: 1.01e-05 [s / iter]
+
+Test 94
+------------
+Sequence: [-8712, -6920]
+Search value = -8108
+Target value '-8108' found at index '604' in 9 iterations in 1793-length sequence.
+Time elapsed: 2.62e-06 [s]
+Mean time per iter: 2.91e-07 [s / iter]
+
+Test 95
+------------
+Sequence: [-8, -7]
+Search value = -8
+Target value '-8' found at index '0' in 1 iterations in 2-length sequence.
+Time elapsed: 1.19e-06 [s]
+Mean time per iter: 1.19e-06 [s / iter]
+
+Test 96
+------------
+Sequence: [552855, 1498895]
+Search value = 1498895
+Target value '1498895' found at index '946040' in 20 iterations in 946041-length sequence.
+Time elapsed: 2.00e-05 [s]
+Mean time per iter: 1.00e-06 [s / iter]
+
+Test 97
+------------
+Sequence: [-8, 10]
+Search value = 1
+Target value '1' found at index '9' in 1 iterations in 19-length sequence.
+Time elapsed: 6.68e-06 [s]
+Mean time per iter: 6.68e-06 [s / iter]
+
+Test 98
+------------
+Sequence: [-52159, 669]
+Search value = -7381
+Target value '-7381' found at index '44778' in 15 iterations in 52829-length sequence.
+Time elapsed: 5.72e-06 [s]
+Mean time per iter: 3.81e-07 [s / iter]
+
+Test 99
+------------
+Sequence: [1522689, 19056893]
+Search value = 4414934
+Search value will be omitted from sequence in this test
+Error: 4414934 not found in sequence after 25 iterations!
+Time elapsed: 4.15e-05 [s]
+Mean time per iter: 1.66e-06 [s / iter]
+
+Test 100
+------------
+Sequence: [-8, 10]
+Search value = 9
+Search value will be omitted from sequence in this test
+Error: 9 not found in sequence after 6 iterations!
+Time elapsed: 6.44e-06 [s]
+Mean time per iter: 1.07e-06 [s / iter]
+
+Final results: 95 successes in 100 trials.
+Total time elapsed: 1.42e-03
