@@ -1,0 +1,10 @@
+4.00K	/home/sad/dev/dsa
+4.00K	/home/sad/dev/dsa/res
+4.00K	/home/sad/dev/dsa/scripts
+3.55K	/home/sad/dev/dsa/scripts/recursion.py
+3.27K	/home/sad/dev/dsa/scripts/search.py
+4.00K	/home/sad/dev/dsa/out
+315.00B	/home/sad/dev/dsa/out/disk_usage.txt
+82.00B	/home/sad/dev/dsa/out/english_ruler.txt
+21.32K	/home/sad/dev/dsa/out/binary_search_log.txt
+Total size: 28.54K
